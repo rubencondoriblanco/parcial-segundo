@@ -1,0 +1,10 @@
+c:\users\ruben condori blanco\documents\visual studio 2012\Projects\dosimagenes\dosimagenes\bin\Debug\dosimagenes.exe.config
+C:\Users\Ruben Condori Blanco\Documents\Visual Studio 2012\Projects\dosimagenes\dosimagenes\obj\Debug\dosimagenes.csprojResolveAssemblyReference.cache
+C:\Users\Ruben Condori Blanco\Documents\Visual Studio 2012\Projects\dosimagenes\dosimagenes\obj\Debug\dosimagenes.Form1.resources
+C:\Users\Ruben Condori Blanco\Documents\Visual Studio 2012\Projects\dosimagenes\dosimagenes\obj\Debug\dosimagenes.Properties.Resources.resources
+C:\Users\Ruben Condori Blanco\Documents\Visual Studio 2012\Projects\dosimagenes\dosimagenes\obj\Debug\dosimagenes.csproj.GenerateResource.Cache
+C:\Users\Ruben Condori Blanco\Documents\Visual Studio 2012\Projects\dosimagenes\dosimagenes\bin\Debug\dosimagenes.exe
+C:\Users\Ruben Condori Blanco\Documents\Visual Studio 2012\Projects\dosimagenes\dosimagenes\bin\Debug\dosimagenes.pdb
+C:\Users\Ruben Condori Blanco\Documents\Visual Studio 2012\Projects\dosimagenes\dosimagenes\obj\Debug\dosimagenes.exe
+C:\Users\Ruben Condori Blanco\Documents\Visual Studio 2012\Projects\dosimagenes\dosimagenes\obj\Debug\dosimagenes.pdb
+C:\Users\Ruben Condori Blanco\Documents\Visual Studio 2012\Projects\dosimagenes\dosimagenes\obj\Debug\dosimagenes.Form2.resources
